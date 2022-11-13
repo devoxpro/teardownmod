@@ -1,7 +1,7 @@
 {
-    "show_ads": false,
+    "show_ads": true,
     "bannerAd": ["", "", ""],
-    "InterAd": ["", "", ""],
+    "InterAd": ["max", "max", "max"],
 	"nativeAd": ["", "", ""],
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -12,8 +12,8 @@
     "unityGameID": "",
     "unityBanner": "",
     "unityInter": "",
-    "max_banner": "38ca812322b28717",
-    "max_inter": "5344e067ccf76334",
+    "max_banner": "",
+    "max_inter": "3e24487775b63bd7",
 	"max_reward": "",
     "more_btn": "More",
     "more_btn_link": "https://www.google.com"
